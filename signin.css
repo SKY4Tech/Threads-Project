@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	background-color: black;
+
+}
+.container{
+	width: 35%;
+	height:95vh;
+	background-color: white;
+	text-align:left;
+	padding: 50px;
+	border-radius: 20px;
+	position: absolute;
+	top: 3%;
+	left: 35%;
+}
+button{
+	text-align: left;
+}
+.line1{
+	float: left;
+	width:46%;
+	margin-right: 7px;
+}
+.line2{
+	float: left;
+	width: 5%;
+	text-align: center;
+
+}
+.line3{
+	float: right;
+	width:47%;
+}
